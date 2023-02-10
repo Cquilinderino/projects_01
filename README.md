@@ -30,24 +30,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">project_title</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
+    <h3 align="center">PROJECTS PART 1</h3>
+    <p align="center">
+        This is a compilation of simple projects based on the following repo:
+        <a href="https://github.com/andysterks/three-levels-of-projects">3 Levels of Portfolio Projects</a>
+        <br />
+        <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+        <br />
+        <br />
+        <a href="https://github.com/github_username/repo_name">View Demo</a>
+        ·
+        <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+        ·
+        <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    </p>
 </div>
 
 
@@ -85,7 +81,25 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+
+To reinforce my learning for full stack development I will be creating the following 
+simple projects:
+<ul>
+    <li>Static website</li>
+    <li>Personal Website</li>
+    <li>Website for Local Business (Real or Create a Fake Business)</li>
+    <li>Digital Clock</li>
+    <li>Todo App</li>
+    <li>Expense Tracker</li>
+    <li>Vowel Counter</li>
+    <li>Pig Latin Generator</li>
+    <li>Weight Tracker App</li>
+    <li>Recipes App</li>
+    <li>Rock, Paper, Scissors Game</li>
+    <li>Note Taking App</li>
+</ul>
+
+As I complete these projects, I'll hyperlink each dot point with my completed version.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,7 +107,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
+* [![JavaScrtip][JavaScript.com][JavaScript-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
@@ -245,3 +259,11 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
+
+[JavaScript-url]: https://www.javascript.com/
+[JavaScript.com]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[HTML-url]: https://www.w3schools.com/html/
+[HTML.com]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[CSS-url]: https://www.w3schools.com/css/
+[CSS.com]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
